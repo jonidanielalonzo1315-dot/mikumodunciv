@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Miku Nakano Empire",
+    "leaderName": "Miku Nakano",
+    "adjective": [
+      "Nakano"
+    ],
+    "startIntroPart1": "El imperio bordo ha llegado.",
+    "startIntroPart2": "Como en la confesión, cuando Miku quiere algo, lo consigue.",
+    "declaringWar": "Perdoname... pero esta guerra es por vos, por mi, por el imperio. Miku Ito, adelante! Que empiece Nagashino!",
+    "attacked": "¿Me atacas a mi? ¿En serio?",
+    "defeated": "Miku... lo siento...",
+    "introduction": "H-hola... Soy Miku Nakano, del Miku Nakano Empire... Perdon, no soy muy buena hablando con gente nueva... Pero... si queres ser mi aliado, yo... yo te voy a cuidar. Lo prometo.",
+    "neutralHello": "H-hola...",
+    "tradeRequest": "¿Hacemos un trato? No muerdo... mucho.",
+    "outerColor": [
+      128,
+      0,
+      32
+    ],
+    "innerColor": [
+      255,
+      235,
+      240
+    ],
+    "uniques": [
+      "30% Production in all cities",
+      "20% Science in all cities",
+      "All military units gain +20% Experience",
+      "Can spend Gold to annex or puppet a City-State that has been your ally for at least 15 turns"
+    ],
+    "uniqueBuildings": [
+      {
+        "name": "Biblioteca Nakano",
+        "replaces": "Library",
+        "uniques": [
+          "5% Gold in this city",
+          "10% Culture in this city",
+          "1 Happiness in this city",
+          "+2 Science"
+        ]
+      }
+    ],
+    "uniqueUnits": [
+      {
+        "name": "Gran General, Miku Ito",
+        "replaces": "Great General",
+        "uniques": [
+          "3 Movement",
+          "Provides a +25% combat bonus to adjacent units",
+          "Adjacent ranged units gain +15% strength when attacking",
+          "Heals adjacent units for an additional +15 HP per turn",
+          "+50% Flanking bonus for adjacent units"
+        ]
+      }
+    ],
+    "cities": [
+      "Nakano",
+      "Nakano Central",
+      "Bratislava",
+      "Seul",
+      "Busan",
+      "La Venta"
+    ]
+  }
+]
